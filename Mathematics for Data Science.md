@@ -63,5 +63,5 @@ Life is full of uncertainties. We don’t know the outcomes of a particular situ
 
 Let’s face it, life is uncertain!
 
-##Conclusion
+## Conclusion
 At the heart of mining data, insight and building data product is the ability to view the data through a quantitative lens. There are dimensions and correlations in data that can be expressed mathematically. Finding solutions utilizing data becomes a brain teaser of quantitative technique. Solutions to many business problems involve building analytic models grounded in the hard math, where being able to understand the underlying mechanics of those models is key to success in building them.
