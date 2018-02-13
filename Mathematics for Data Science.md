@@ -7,7 +7,7 @@ Data Science is a blend of skills in three major areas: 
 2. Technology and Hacking Skills
 3. Strong Business ability
 
-![Data Science](https://photos.app.goo.gl/16HkaPWXbBlMoqeJ3)
+![Data Science](AbdulWahabAbrar.github.io/data-science-diagram1.jpg)
 
 Mathematical expertise does not only refer to **Statistics**. While it is important but it is not the only type of math utilised in Data Science. Several machine learning techniques are based on **Linear Algebra**, several deep learning techniques require **Calculus** also **Probability** is essential.
 
@@ -26,7 +26,7 @@ Data Scientists use statistics in several occasions:
 **Linear Algebra** is the branch of mathematics concerning vector spaces and mappings between such spaces. It includes the study of lines, planes, and subspaces, but is also concerned with properties common to all vector spaces. In Data Science it is needed to understand how algorithms work. What are their limitations and in case they make any underlying assumptions.
 Let’s see why linear algebra is important in data science.
 
-![Plant Image](https://photos.app.goo.gl/0JPahkCp6Ewm3OLE2)
+![Plant Image](AbdulWahabAbrar.github.io/plantimg.jpg)
 
 A human brain can easily recognise the above image as a plant because it has gone through million years of evolution and our brains are trained to identify the images, but the same task, when given to the computers that understand only 0 and 1 processes. The computers store the pixel intensities in a construct called Matrix, then this matrix can be processed to identify the image. 
 So any operation which you want to perform on this image would likely use Linear Algebra and matrices in the back end.
