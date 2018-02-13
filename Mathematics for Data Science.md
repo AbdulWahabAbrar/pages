@@ -33,7 +33,7 @@ So any operation which you want to perform on this image would likely use Linear
 
 ---
 
-Calculus is important for several key machine learning applications. For example. You’ll need to be able to calculate derivatives and gradients for optimizations such as gradient desent technique.
+**Calculus** is important for several key machine learning applications. For example. You’ll need to be able to calculate derivatives and gradients for optimizations such as gradient desent technique.
 
 Machine learning uses derivatives to find optimal solutions to problems. It’s useful in optimization functions like Gradient Descent because it helps us decide whether to increase or decrease our weights in order to maximize or minimize some metrics (e.g. loss)
 
@@ -57,11 +57,11 @@ derivative, actual = 6.0001, 6
 ```
 ---
 
-Probability is an essential and back-bone concept used in data science, the journey of learning statistics begin with learning probability. 
+**Probability** is an essential and back-bone concept used in data science, the journey of learning statistics begin with learning probability. 
 
 Life is full of uncertainties. We don’t know the outcomes of a particular situation until it happens. Will it rain today? Will I pass the next math test? Will my favorite team win the toss? Will I get a promotion in next 6 months? All these questions are examples of uncertain situations we live in. 
 
 Let’s face it, life is uncertain!
 
-Conclusion
+##Conclusion
 At the heart of mining data, insight and building data product is the ability to view the data through a quantitative lens. There are dimensions and correlations in data that can be expressed mathematically. Finding solutions utilizing data becomes a brain teaser of quantitative technique. Solutions to many business problems involve building analytic models grounded in the hard math, where being able to understand the underlying mechanics of those models is key to success in building them.
